@@ -42,5 +42,3 @@ This project provides a **gesture-based, touchless solution** using real-time ha
 - Proper lighting conditions
 
 ---
-
-## 📂 Project Structure
